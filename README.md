@@ -1,2 +1,2 @@
 # javascript
-Talleres de javascript tomados en Platzi
+Worshops of Javacript
